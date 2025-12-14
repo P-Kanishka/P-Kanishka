@@ -18,7 +18,6 @@ I sit at the intersection of **Scalable Infrastructure**, **AI Safety**, and **H
 ---
 
 ### 🔹 Domain 1: Software Engineering, Backend & HPC
-*Focus: Cloud Infrastructure, Microservices, Distributed Systems, Quantum*
 
 #### ⚡ [Fault-Tolerant Distributed System](https://github.com/P-Kanishka/Go-Distributed-System)
 * **Scope:** Backend Engineering & Reliability.
@@ -43,7 +42,6 @@ I sit at the intersection of **Scalable Infrastructure**, **AI Safety**, and **H
 ---
 
 ### 🔹 Domain 2: AI, Security & Data
-*Focus: LLMs, Red Teaming, Data Pipelines*
 
 #### 🧠 [LakotaBERT (LLM Research)](https://github.com/P-Kanishka/LakotaBERT)
 * **Scope:** End-to-end LLM pre-training.
@@ -63,7 +61,6 @@ I sit at the intersection of **Scalable Infrastructure**, **AI Safety**, and **H
 ---
 
 ### 🔹 Domain 3: Robotics & Simulation
-*Focus: Simulation, Game Dev, 3D Modeling*
 
 #### 🤖 [Dexterous Robotic Manipulation](https://github.com/P-Kanishka/Robotics-MuJoCo)
 * **Scope:** Deep Reinforcement Learning (RL).
