@@ -4,7 +4,7 @@
 I sit at the intersection of **Scalable Cloud Infrastructure**, **Adversarial AI Safety (MLSecOps)**, and **High-Performance Computing**. I design distributed architectures, optimize hardware-constrained inference engines, and harden foundational models against adversarial threats.
 
 - 🎓 **M.S. in Computer Science (AI Specialization, GPA: 3.82/4.00)** @ University of South Dakota (2025)
-- 🏆 **Best Paper Award Winner** for *LakotaBERT* (RTIP2P-2024)
+- 🏆 **Best Paper Award Winner** for *LakotaBERT*
 - 🌐 **Global Policy Impact:** Cited in the **OECD** Report (*"Governing with Artificial Intelligence"*, 2025)
 - 📜 **Certified Software Professional (Level 2)** @ IEEE Computer Society
 - 🔭 **Target Roles:** Machine Learning Engineer, Backend / Distributed Systems Engineer, Cloud Infrastructure / MLOps Engineer
